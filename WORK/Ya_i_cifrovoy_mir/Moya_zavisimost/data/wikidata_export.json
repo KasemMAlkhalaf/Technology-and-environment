@@ -1,0 +1,11 @@
+{
+  "results": {
+    "bindings": [
+      {"countryLabel": {"value": "Россия"}, "screenTime": {"value": "6:12"}},
+      {"countryLabel": {"value": "США"}, "screenTime": {"value": "7:05"}},
+      {"countryLabel": {"value": "Япония"}, "screenTime": {"value": "4:50"}},
+      {"countryLabel": {"value": "Германия"}, "screenTime": {"value": "5:30"}},
+      {"countryLabel": {"value": "Бразилия"}, "screenTime": {"value": "8:00"}}
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "results": {
+    "bindings": [
+      {"countryLabel": {"value": "Россия"}, "incidents": {"value": "1200"}},
+      {"countryLabel": {"value": "США"}, "incidents": {"value": "5400"}}
+    ]
+  }
+}

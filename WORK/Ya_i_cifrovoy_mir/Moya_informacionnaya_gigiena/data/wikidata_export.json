@@ -1,0 +1,8 @@
+{
+  "results": {
+    "bindings": [
+      {"year": {"value": "2020"}, "count": {"value": "154"}},
+      {"year": {"value": "2021"}, "count": {"value": "203"}}
+    ]
+  }
+}

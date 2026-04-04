@@ -1,0 +1,8 @@
+{
+  "results": {
+    "bindings": [
+      {"componentLabel": {"value": "GPU"}, "lifespan": {"value": "3 years"}},
+      {"componentLabel": {"value": "CPU"}, "lifespan": {"value": "5 years"}}
+    ]
+  }
+}
